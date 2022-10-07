@@ -1,0 +1,15 @@
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/bin/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/bin/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.deps.json
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/bin/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.runtimeconfig.json
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/bin/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.dll
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/bin/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.pdb
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.csproj.AssemblyReference.cache
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.AssemblyInfoInputs.cache
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.AssemblyInfo.cs
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.csproj.CoreCompileInputs.cache
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.dll
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/refint/DesafioPrático .NET ProjetoHospedagem.dll
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.pdb
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/DesafioPrático .NET ProjetoHospedagem.genruntimeconfig.cache
+/home/wkmelo/Projetos/EstudosDIO/Estudos.NET/DesafioPrático .NET ProjetoHospedagem/obj/Debug/net6.0/ref/DesafioPrático .NET ProjetoHospedagem.dll
